@@ -4,3 +4,4 @@ U have to have load this mod as last after HD mod.
 I have chosen Q letter.
 Enjoy!
 ![image](https://github.com/user-attachments/assets/fd13c65a-8b3a-4b6e-b228-b7426dc4895b)
+![image](https://github.com/user-attachments/assets/ea848dc6-999c-4b91-9b6a-e5299e36913e)
