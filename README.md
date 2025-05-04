@@ -1,4 +1,6 @@
-This is simple mod for HD project.
+This is simple mod for HD project and now with DH skin for mormal game.
+Q file is for HD
+R file is for Normal
 It change Feamale Demon Hunter skin form TWoW Shop for Night Elfs to more demonic one as you can see on picture below.
 U have to have load this mod as last after HD mod. 
 I have chosen Q letter.
